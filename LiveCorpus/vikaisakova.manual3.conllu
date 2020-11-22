@@ -504,7 +504,7 @@
 504	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vei1976f#@vei1976f#222.57#222.684
 505	еще	еще	ADV	_	Degree=Pos	_	_	_	words@vei1976f#@vei1976f#222.684#222.805
 506	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vei1976f#@vei1976f#222.805#223.341
-508	э	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vei1976f#@vei1976f#223.491#223.624
+507	э	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vei1976f#@vei1976f#223.491#223.624
 508	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vei1976f#@vei1976f#223.491#223.624
 509	тоже	тоже	PART	_	_	_	_	_	words@vei1976f#@vei1976f#223.624#224.498
 510	ммм	м	INTJ	_	_	_	_	_	words@vei1976f#@vei1976f#224.498#225.278
@@ -576,7 +576,7 @@
 576	какой	какой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vei1976f#@vei1976f#258.668#258.818
 577	то	то	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vei1976f#@vei1976f#258.818#259.453
 578	в	в	ADP	_	_	_	_	_	words@vei1976f#@vei1976f#259.453#259.517
-580	к	комментарий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vei1976f#@vei1976f#259.709#260.315
+579	к	комментарий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vei1976f#@vei1976f#259.709#260.315
 580	комментарий	комментарий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vei1976f#@vei1976f#259.709#260.315
 581	там	там	ADV	_	Degree=Pos	_	_	_	words@vei1976f#@vei1976f#260.315#260.458
 582	и	и	CCONJ	_	_	_	_	_	words@vei1976f#@vei1976f#260.458#260.535
@@ -637,7 +637,7 @@
 637	вот	вот	PART	_	_	_	_	_	words@vei1976f#@vei1976f#280.551#280.727
 638	приду	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@vei1976f#@vei1976f#280.727#281.536
 639	и	и	CCONJ	_	_	_	_	_	words@vei1976f#@vei1976f#281.536#281.58
-640	все	весь DET	_	Case=Nom|Number=Plur	_	_	_	words@vei1976f#@vei1976f#281.58#281.674
+640	все	весь	DET	_	Case=Nom|Number=Plur	_	_	_	words@vei1976f#@vei1976f#281.58#281.674
 641	ждут	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vei1976f#@vei1976f#281.674#281.935
 642	от	от	ADP	_	_	_	_	_	words@vei1976f#@vei1976f#281.935#282.061
 643	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	words@vei1976f#@vei1976f#282.061#282.381
@@ -764,7 +764,7 @@
 764	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vei1976f#@vei1976f#338.212#338.39
 765	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vei1976f#@vei1976f#338.39#338.675
 766	очень	очень	ADV	_	Degree=Pos	_	_	_	words@vei1976f#@vei1976f#342.012#342.394
-767	надеюсь	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	words@vei1976f#@vei1976f#342.394#342.736
+767	надеюсь	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vei1976f#@vei1976f#342.394#342.736
 768	что	что	SCONJ	_	_	_	_	_	words@vei1976f#@vei1976f#342.736#342.94
 769	хорошая	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vei1976f#@vei1976f#342.94#344.779
 770	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vei1976f#@vei1976f#344.779#345.017
