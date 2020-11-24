@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-11-24T08:40:03+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-11-24T16:42:39+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///C:/Users/alyon/Desktop/ox/vikaisakova_Trim.mp4" MEDIA_URL="file:///C:/Users/alyon/Desktop/ox/vikaisakova_Trim.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ox/vikaisakova_Trim.wav"/>
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/alyon/Desktop/ox/vikaisakova_Trim.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./ox/vikaisakova_Trim.mp4"/>
@@ -6064,17 +6064,17 @@
     <TIER ANNOTATOR="ermalyy" LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@vei1976f" PARTICIPANT="@vei1976f" TIER_ID="intonation@vei1976f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5181" ANNOTATION_REF="a1361">
-                <ANNOTATION_VALUE>нарратив / нарратив // нарратив / нарратив // нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5182" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>нарратив / нарратив / нарратив / нарратив // нарратив / восклицание //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5183" ANNOTATION_REF="a24">
-                <ANNOTATION_VALUE>нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6084,109 +6084,109 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5185" ANNOTATION_REF="a25">
-                <ANNOTATION_VALUE>нарратив // обрыв / контраст / контраст / контраст / контраст // нарратив // нарратив / нарратив / нарратив / нарратив / нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>неясно</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5186" ANNOTATION_REF="a55">
-                <ANNOTATION_VALUE>нарратив / нарратив // нарратив / нарратив // нарратив / нарратив / нарратив // нарратив / нарратив / вопрос да-нет / нарратив // нарратив / нарратив / нарратив / нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5187" ANNOTATION_REF="a27">
-                <ANNOTATION_VALUE>нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5215" ANNOTATION_REF="a28">
-                <ANNOTATION_VALUE>нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5188" ANNOTATION_REF="a29">
-                <ANNOTATION_VALUE>нарратив / нарратив // нарратив / нарратив / нарратив / контраст / контраст / контраст // контраст / контраст / контраст / контраст / контраст //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>неясно</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5189" ANNOTATION_REF="a30">
-                <ANNOTATION_VALUE>нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5190" ANNOTATION_REF="a31">
-                <ANNOTATION_VALUE>контраст / контраст / нарратив / нарратив / нарратив / нарратив / нарратив / нарратив / нарратив // нарратив / нарратив / нарратив / контраст / контраст / контраст // нарратив / нарратив // восклицание / восклицание // нарратив / нарратив / вопрос специальный / нарратив / нарратив // нарратив / нарратив / нарратив / нарратив // нарратив // контраст</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5191" ANNOTATION_REF="a58">
-                <ANNOTATION_VALUE>нарратив / нарратив / нарратив / нарратив / нарратив / нарратив / нарратив / нарратив / нарратив / нарратив // нарратив / вопрос да-нет / нарратив / обрыв //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5192" ANNOTATION_REF="a59">
-                <ANNOTATION_VALUE>нарратив / нарратив / обрыв / вопрос специальный / восклицание / обрыв / нарратив / нарратив / нарратив / нарратив // нарратив / нарратив / нарратив / нарратив / нарратив / нарратив / нарратив / нарратив / нарратив // нарратив / нарратив / нарратив / нарратив / нарратив / контраст / контраст // контраст //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5193" ANNOTATION_REF="a47">
-                <ANNOTATION_VALUE>нарратив / нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5194" ANNOTATION_REF="a48">
-                <ANNOTATION_VALUE>контраст / контраст / контраст //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>контраст</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5195" ANNOTATION_REF="a49">
-                <ANNOTATION_VALUE>нарратив // нарратив / нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ermalyy" LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@iys1984f" PARTICIPANT="@iys1984f" TIER_ID="intonation@iys1984f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5196" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>вопрос специальный / вопрос специальный //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос специальный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5197" ANNOTATION_REF="a1362">
-                <ANNOTATION_VALUE>вопрос да-нет //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос да-нет</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5198" ANNOTATION_REF="a20">
-                <ANNOTATION_VALUE>вопрос специальный / обрыв //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>обрыв</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5199" ANNOTATION_REF="a57">
-                <ANNOTATION_VALUE>неясно //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>обрыв</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5200" ANNOTATION_REF="a35">
-                <ANNOTATION_VALUE>вопрос да-нет //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос да-нет</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5201" ANNOTATION_REF="a36">
-                <ANNOTATION_VALUE>нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5202" ANNOTATION_REF="a37">
-                <ANNOTATION_VALUE>нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5203" ANNOTATION_REF="a38">
-                <ANNOTATION_VALUE>нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5204" ANNOTATION_REF="a40">
-                <ANNOTATION_VALUE>вопрос специальный / нарратив / нарратив / нарратив //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6196,47 +6196,47 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5206" ANNOTATION_REF="a33">
-                <ANNOTATION_VALUE>вопрос да-нет / вопрос да-нет //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос да-нет</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5207" ANNOTATION_REF="a34">
-                <ANNOTATION_VALUE>вопрос да-нет //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос да-нет</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5208" ANNOTATION_REF="a43">
-                <ANNOTATION_VALUE>обрыв //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>обрыв</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5209" ANNOTATION_REF="a41">
-                <ANNOTATION_VALUE>вопрос специальный / вопрос специальный // вопрос специальный //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос специальный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5210" ANNOTATION_REF="a60">
-                <ANNOTATION_VALUE>вопрос да-нет / вопрос да-нет //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос да-нет</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5211" ANNOTATION_REF="a61">
-                <ANNOTATION_VALUE>вопрос да-нет / вопрос да-нет //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос да-нет / вопрос да-нет</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5212" ANNOTATION_REF="a45">
-                <ANNOTATION_VALUE>вопрос специальный / вопрос специальный / вопрос специальный //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос специальный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5213" ANNOTATION_REF="a50">
-                <ANNOTATION_VALUE>вопрос да-нет //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос да-нет</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5214" ANNOTATION_REF="a51">
-                <ANNOTATION_VALUE>вопрос да-нет //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос да-нет</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
