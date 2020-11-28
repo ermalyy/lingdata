@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-11-24T16:42:39+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-11-28T11:23:54+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///C:/Users/alyon/Desktop/ox/vikaisakova_Trim.mp4" MEDIA_URL="file:///C:/Users/alyon/Desktop/ox/vikaisakova_Trim.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ox/vikaisakova_Trim.wav"/>
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/alyon/Desktop/ox/vikaisakova_Trim.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./ox/vikaisakova_Trim.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:84aad537-9778-4cc3-b202-c6b4730be18c</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">5215</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">5217</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="400"/>
@@ -6146,7 +6146,7 @@
     <TIER ANNOTATOR="ermalyy" LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@iys1984f" PARTICIPANT="@iys1984f" TIER_ID="intonation@iys1984f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5196" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>вопрос специальный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вопрос да-нет</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6182,6 +6182,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5203" ANNOTATION_REF="a38">
                 <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5216" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>другое</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6237,6 +6242,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5214" ANNOTATION_REF="a51">
                 <ANNOTATION_VALUE>вопрос да-нет</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5217" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>другое</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
