@@ -1014,7 +1014,7 @@ intonation@vei1976f	@vei1976f	253.643	316.698	нарратив
 intonation@vei1976f	@vei1976f	325.665	329.468	нарратив
 intonation@vei1976f	@vei1976f	335.814	338.675	контраст
 intonation@vei1976f	@vei1976f	342.012	347.482	нарратив
-intonation@iys1984f	@iys1984f	0.4	5.629	вопрос специальный
+intonation@iys1984f	@iys1984f	0.4	5.629	вопрос да-нет
 intonation@iys1984f	@iys1984f	23.808	24.73	вопрос да-нет
 intonation@iys1984f	@iys1984f	25.334	32.644	обрыв
 intonation@iys1984f	@iys1984f	35.307	35.823	обрыв
@@ -1022,6 +1022,7 @@ intonation@iys1984f	@iys1984f	52.01	52.307	вопрос да-нет
 intonation@iys1984f	@iys1984f	52.774	55.029	нарратив
 intonation@iys1984f	@iys1984f	65.633	65.95	нарратив
 intonation@iys1984f	@iys1984f	67.845	68.019	нарратив
+intonation@iys1984f	@iys1984f	75.032	76.205	другое
 intonation@iys1984f	@iys1984f	84.843	94.195	нарратив
 intonation@iys1984f	@iys1984f	100.246	101.305	вопрос да-нет //
 intonation@iys1984f	@iys1984f	102.042	104.975	вопрос да-нет
@@ -1033,6 +1034,7 @@ intonation@iys1984f	@iys1984f	251.014	252.14	вопрос да-нет / вопр
 intonation@iys1984f	@iys1984f	317.07	324.891	вопрос специальный
 intonation@iys1984f	@iys1984f	331.39	332.581	вопрос да-нет
 intonation@iys1984f	@iys1984f	339.237	339.999	вопрос да-нет
+intonation@iys1984f	@iys1984f	344.232	344.61	другое
 pos@vei1976f	@vei1976f	6.476	6.662	INTJ
 pos@vei1976f	@vei1976f	6.662	6.827	INTJ
 pos@vei1976f	@vei1976f	6.827	7.007	PART
